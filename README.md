@@ -1,20 +1,10 @@
 # Basic-Calculator
 The Calculator is a simple Python application that performs basic arithmetic operations. Users can enter mathematical expressions using the provided buttons and get the result displayed.
 
-GUIDED PATH:
-
-Check out our guided path on the Calculator for more information on the development process and our thoughts on building the application:
-
 REQUIREMENTS:
 
 1.Python 3.x
 2.Tkinter library (which is usually included with Python)
-
-GETTING STARTED:
-
-1.Clone this repository to your local machine.
-2.Launch Jupyter Notebook.
-3.Then navigate to the cloned repository.
 
 HOW TO USE:
 
